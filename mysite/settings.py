@@ -24,7 +24,7 @@ SECRET_KEY = ''
 # SECREY_KEY값 : acx+@gjoa-tbl_m@b@oqgc-x590upx0amo0$u9x_guch8=vi6(
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
